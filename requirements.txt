@@ -1,0 +1,10 @@
+scikit-learn
+h5py
+psutil
+pytorch_memlab
+tqdm
+memory_profiler
+tensorboard
+#pytorch
+#git clone https://github.com/htm-community/htm.core
+#git clone https://github.com/numenta/nupic.torch.git
